@@ -8,7 +8,7 @@
 
 ## Hasil Analisis PivotTable
 
-![Hasil PivotTable](pivottable.png)
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 094859" src="https://github.com/user-attachments/assets/80203f6f-ea85-4108-ac95-d3721216926c" />
 
 ---
 
