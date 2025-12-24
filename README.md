@@ -1,44 +1,25 @@
-# ali-tampan
-I AM FROM ENGLAND 
-# 👋 Halo, Saya **Ali Irawan**
+# UAS APLIKOM
 
-Saya adalah mahasiswa **Universitas Jenderal Soedirman**, program studi **D3 Perencanaan Sumberdaya Lahan**, Fakultas Pertanian.  
-Lahir di **Banjarnegara, 20 Maret 2007**.
-
----
-
-## 🌱 Tentang Saya
-Saya tertarik pada bidang:
-- Perencanaan dan pengelolaan sumberdaya lahan  
-- Konservasi tanah dan air  
-- Pertanian berkelanjutan  
-- Sistem informasi geografis (GIS) dasar  
-- Pengolahan data dan pemetaan sederhana  
+## Identitas Mahasiswa
+**Nama** : Ali Irawan  
+**NIM**  : A0B025079  
 
 ---
 
-## 🎓 Pendidikan
-- **Universitas Jenderal Soedirman (UNSOED)**  
-  *D3 Perencanaan Sumberdaya Lahan – Fakultas Pertanian*  
-- **Asal:** Banjarnegara, Jawa Tengah  
+## Hasil Analisis PivotTable
+
+![Hasil PivotTable](pivottable.png)
 
 ---
 
-## 🔧 Keahlian Utama
-- Analisis tata guna lahan  
-- Konservasi tanah & air  
-- Penggunaan GIS (tingkat dasar)  
-- Microsoft Office (Word, Excel, PowerPoint)  
-- Pembuatan laporan dan presentasi  
+## Interpretasi
+
+Berdasarkan hasil PivotTable tersebut, kategori tanah **masam** memiliki luas lahan terbesar dengan total sekitar **73.589,528 ha**, sehingga menjadi kondisi tanah yang paling dominan.  
+Kategori **agak masam** memiliki luas yang jauh lebih kecil, yaitu sekitar **20.944 ha**, sementara data **(blank)** hanya mencakup sekitar **1.577,697 ha**.  
+Secara keseluruhan, total luas lahan yang dianalisis mencapai **96.111,225 ha**, yang menunjukkan bahwa sebagian besar wilayah didominasi oleh tanah dengan tingkat kemasaman tinggi.  
+Hal ini mengindikasikan perlunya perhatian khusus dalam pengelolaan lahan, terutama terkait kesesuaian tanah untuk kegiatan pertanian.
 
 ---
 
-## 📫 Kontak
-- Email: *(ali.i@mhs.unsoed.ac.id)*  
-- GitHub: *(https://github.com/Ali-Irawann/ali/edit/main/README.md))*  
-- LinkedIn: *(opsional)*  
-
-
----
-
-Terima kasih sudah mengunjungi profil saya! 🙌
+## Mata Kuliah
+**Aplikasi Komputer (APLIKOM)**
