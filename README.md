@@ -17,8 +17,3 @@ Berdasarkan hasil PivotTable tersebut, kategori tanah **masam** memiliki luas la
 Kategori **agak masam** memiliki luas yang jauh lebih kecil, yaitu sekitar **20.944 ha**, sementara data **(blank)** hanya mencakup sekitar **1.577,697 ha**.  
 Secara keseluruhan, total luas lahan yang dianalisis mencapai **96.111,225 ha**, yang menunjukkan bahwa sebagian besar wilayah didominasi oleh tanah dengan tingkat kemasaman tinggi.  
 Hal ini mengindikasikan perlunya perhatian khusus dalam pengelolaan lahan, terutama terkait kesesuaian tanah untuk kegiatan pertanian.
-
----
-
-## Mata Kuliah
-**Aplikasi Komputer (APLIKOM)**
